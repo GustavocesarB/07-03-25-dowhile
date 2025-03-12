@@ -1,0 +1,33 @@
+body{
+    background-color: cadetblue;
+}
+
+
+h1{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.checkbox{
+    display: flex;
+    justify-content: center;
+    margin-top: -45px;
+    margin-left: 240px;
+}
+
+div{
+    display: inline-flex;
+}
+
+#span_hora{
+    color: rgb(17, 25, 26);
+}
+
+#span_Minutes{
+    color: blueviolet;
+}
+
+#span_Seconds{
+    color: blue;
+}
